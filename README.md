@@ -14,11 +14,11 @@ Live Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiYjMyYzJlMjgtMDJlMy0
 
 ## Visual Highlights
 
-- **Completion Days by Phase Name:
+- **Completion Days by Phase Name:**
 - **Total Amount by Donor Name:** 
 - **Construction Progress:**
-- **Deity Name and Description:
-- **Architect Name and Description:
+- **Deity Name and Description:**
+- **Architect Name and Description:**
 
 
 
